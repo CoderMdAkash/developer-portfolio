@@ -88,7 +88,7 @@ function HeroSection() {
         <div className="order-1 lg:order-2 from-[#0d1224] border-[#1b2c68a0] relative rounded-lg border bg-gradient-to-r to-[#0a0d37]">
          
           
-          <div className="overflow-hidden border-t-[2px] border-indigo-900 px-4 lg:px-8 py-4 lg:py-6">
+          <div className="overflow-hidden border-t-[2px] border-indigo-900 px-2 md:px-4 lg:px-8 py-4 lg:py-6">
               <div className="rounded-2xl p-6 shadow-xl">
   
                 <h3 className="text-white text-xl font-semibold mb-6">
@@ -96,12 +96,12 @@ function HeroSection() {
                 </h3>
 
                 <div className="grid grid-cols-3 gap-4 mb-8">
-                  <span className="tech-badge bg-white/3 text-white text-sm px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">Laravel</span>
-                  <span className="tech-badge bg-white/3 text-white text-sm px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">React</span>
-                  <span className="tech-badge bg-white/3 text-white text-sm px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">Next.js</span>
-                  <span className="tech-badge bg-white/3 text-white text-sm px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">MySQL</span>
-                  <span className="tech-badge bg-white/3 text-white text-sm px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">MongoDB</span>
-                  <span className="tech-badge bg-white/3 text-white text-sm px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">Etc.</span>
+                  <span className="tech-badge bg-white/3 text-white text-sm px-2 md:px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">Laravel</span>
+                  <span className="tech-badge bg-white/3 text-white text-sm px-2 md:px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">React</span>
+                  <span className="tech-badge bg-white/3 text-white text-sm px-2 md:px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">Next.js</span>
+                  <span className="tech-badge bg-white/3 text-white text-sm px-2 md:px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">MySQL</span>
+                  <span className="tech-badge bg-white/3 text-white text-sm px-2 md:px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">MongoDB</span>
+                  <span className="tech-badge bg-white/3 text-white text-sm px-2 md:px-4 py-2 rounded-lg border border-[#5453535c] hover:border-cyan-400 hover:text-cyan-400 transition duration-300 text-center">Etc.</span>
                 </div>
 
 
