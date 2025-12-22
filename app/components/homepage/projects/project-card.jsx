@@ -42,7 +42,7 @@ function ProjectCard({ project }) {
 
           </div>
           {/* Actions */}
-          <div className="flex justify-end items-end pt-2 pe-5">
+          <div className="flex justify-end items-end py-2 pe-5">
             <a href={project.url}
               target="_blank"
               rel="noreferrer"
