@@ -22,7 +22,7 @@ function HeroSection() {
 
       <div className="grid grid-cols-1 items-center lg:grid-cols-2 lg:gap-12 gap-y-8">
         <div className="order-2 lg:order-1 flex flex-col items-start justify-center p-2 pb-10 md:pb-10 lg:pt-10">
-          <h1 className="text-3xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.5rem] lg:leading-[3.5rem]">
+          <h1 className="text-2xl md:text-3xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.4rem] lg:leading-[3.5rem]">
             Hello, <br />
             This is {' '}
             <span className=" text-pink-500">{personalData.name}</span>
