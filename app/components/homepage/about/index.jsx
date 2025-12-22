@@ -19,16 +19,17 @@ function AboutSection() {
             Who I am?
           </p>
           <p className="text-gray-200 text-sm lg:text-lg">
-            {personalData.description}
+            Hi, I’m Md Akash Mia 👋<br />
+            A results-driven Software Developer with hands-on experience in PHP, Laravel, JavaScript, and React, specializing in RESTful APIs, MVC architecture, and scalable system design. I enjoy working with relational databases, optimizing queries, and building performance-focused web applications.
+            <br />
+            I thrive in collaborative, agile environments, contribute to clean and maintainable codebases, and continuously explore modern web technologies, best practices, and system optimization techniques. Open to opportunities where I can deliver impactful, high-quality digital solutions 🚀
           </p>
         </div>
-        <div className="flex justify-center order-1 lg:order-2">
-          <Image
+        <div className="flex justify-center items-center order-1 lg:order-2 pt-5">
+          <img
             src={personalData.profile}
-            width={280}
-            height={280}
             alt="Md Akash Mia"
-            className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
+            className="w-[280px] h-[fit-content] rounded-lg overflow-hidden transition-all duration-1000 hover:grayscale-0 hover:scale-110 cursor-pointer"
           />
         </div>
       </div>
