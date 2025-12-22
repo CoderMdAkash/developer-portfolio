@@ -21,7 +21,7 @@ function AboutSection() {
           <p className="text-gray-200 text-sm lg:text-lg">
             Hi, I’m Md Akash Mia 👋<br />
             A results-driven Software Developer with hands-on experience in PHP, Laravel, JavaScript, and React, specializing in RESTful APIs, MVC architecture, and scalable system design. I enjoy working with relational databases, optimizing queries, and building performance-focused web applications.
-            <br />
+            <br /><br />
             I thrive in collaborative, agile environments, contribute to clean and maintainable codebases, and continuously explore modern web technologies, best practices, and system optimization techniques. Open to opportunities where I can deliver impactful, high-quality digital solutions 🚀
           </p>
         </div>
